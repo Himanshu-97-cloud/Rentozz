@@ -1,0 +1,38 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+*.db
+
+node_modules/
+dist/
+.venv/
+venv/
+__pycache__/
+.env
+**/.env
+
+# Frontend
+node_modules/
+dist/
+
+# Editors and OS
+.vscode/
+.DS_Store
+
+# Frontend dependencies
+frontend/node_modules/
+frontend/dist/
+
+# Python environment
+backend/.venv/
+backend/venv/
+backend/__pycache__/
+__pycache__/
+
+# Secrets
+.env
+**/.env
